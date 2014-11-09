@@ -3,7 +3,7 @@ using System.Collections;
 using System.Configuration.Install;
 using System.ServiceProcess;
 
-namespace RunnableServiceBootstrap
+namespace ServiceBootstrap
 {
     internal class ServiceHelper
     {

@@ -3,7 +3,7 @@ using System.Linq;
 using System.ServiceProcess;
 using System.Threading;
 
-namespace RunnableServiceBootstrap
+namespace ServiceBootstrap
 {
     public static class Bootstrapper
     {

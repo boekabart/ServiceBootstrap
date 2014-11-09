@@ -1,7 +1,7 @@
 ﻿using System;
 using System.ServiceProcess;
 
-namespace RunnableServiceBootstrap
+namespace ServiceBootstrap
 {
     public class WindowsService : ServiceBase
     {
