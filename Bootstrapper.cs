@@ -14,8 +14,9 @@ namespace ServiceBootstrap
         {
             return Type.GetType("Mono.Runtime") != null;
         }
-
+#pragma warning disable 28
         public static void Main(string[] args, Func<string[], Action> doStartGetStop, string serviceName)
+#pragma warning restore 28
         {
             if (IsRunningOnMono() || Environment.UserInteractive)
             {
