@@ -4,11 +4,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("RunnableServiceBootstrap")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Glueware.ServiceBootstrap")]
+[assembly: AssemblyDescription("Makes it easy to create executables that can be run as service, as console or as service installer/uninstaller")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("RunnableServiceBootstrap")]
+[assembly: AssemblyCompany("Glueware.nl")]
+[assembly: AssemblyProduct("ServiceBootstrap")]
 [assembly: AssemblyCopyright("Copyright ©  2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
